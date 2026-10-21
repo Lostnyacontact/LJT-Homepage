@@ -35,6 +35,9 @@ jobs:
           bundler-cache: true
           cache-version: 0
       - name: Configure GitHub Pages
+        # Non-fatal: creating/using a Pages site needs the Pages setting to be
+        # enabled beforehand. The Jekyll build below must still run either way.
+        continue-on-error: true
         uses: actions/configure-pages@v6.0.0
         with:
           enablement: true
