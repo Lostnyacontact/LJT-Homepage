@@ -33,15 +33,15 @@ My research focuses on natural language processing and machine learning. My inte
 
 ### 2025
 
-* **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond**
+* **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** *(first author)*
   Junteng Liu, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He. arXiv, 2025.
 
-* **On the Perception Bottleneck of VLMs for Chart Understanding**
+* **On the Perception Bottleneck of VLMs for Chart Understanding** *(first author)*
   Junteng Liu, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He. arXiv, 2025.
 
 ### 2024
 
-* **On the Universal Truthfulness Hyperplane Inside LLMs**
+* **On the Universal Truthfulness Hyperplane Inside LLMs** *(first author)*
   Junteng Liu, Shiqi Chen, Yu Cheng, Junxian He. EMNLP 2024.
 
 * **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation**
